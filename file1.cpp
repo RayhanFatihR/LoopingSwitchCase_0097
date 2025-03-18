@@ -12,4 +12,7 @@ int main(){
 
     cout << "Nilai i terakhir : " << i << endl;
     cout << endl;
+
+    //Perulangan for untuk pencacahan turun
+    cout << "Perulangan For Pencacahan Turun" << endl;
 }
