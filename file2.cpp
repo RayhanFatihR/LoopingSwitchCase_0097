@@ -11,5 +11,14 @@ int main(){
     int perulanganDoWhile = 0;
     srand(time(0));
     x = rand() % 10;
-    
+
+    cout << "Nilai x awal : " << x << endl;
+    while(x < 7){
+        cout << "Nilai x : " << x << " Lari Keliling Lapangan" << endl;
+        x = rand() % 10;
+        perulanganWhile++:
+    }while (x < 7);
+    cout << "Nilai x akhir : " << x << endl;
+    cout << "Jumlah perulangan : " << perulanganWhile << endl;
+ 
 }
