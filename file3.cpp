@@ -40,7 +40,11 @@ int main(){
                 break;
             
             case 3:
-                
+                break;
+            default :
+                cout << "Pilihan anda salah!" << endl;
+                cout << endl;
+                break;
         }
-    }
+    }while(pilihan != 3);
 }
