@@ -9,4 +9,7 @@ int main(){
         cout << "Nilai i : " << i
         << " Lari keliling lapangan" << endl;
     }
+
+    cout << "Nilai i terakhir : " << i << endl;
+    cout << endl;
 }
